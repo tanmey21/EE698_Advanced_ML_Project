@@ -4,6 +4,19 @@
 - It models the sequence-to-sequence relationship between English words and their phonetic transcriptions using an encoder-predictor-joiner neural network trained end-to-end.
 - We evaluated the system's performance using the Character Error Rate (CER) metric on the CMU Pronouncing Dictionary dataset.
 
+# 2.Sample Examples:
+#### Example-1:
+- **Input (Grapheme):** `phone`
+- **Predicted Phoneme Output:** `F OW N`
+
+#### Example-2:
+- **Input (Grapheme):** `knight`
+- **Predicted Phoneme Output:** `N AY T`
+
+#### Example-3:
+- **Input (Grapheme):** `physics`
+- **Predicted Phoneme Output:** `F IH Z IH K S`
+
 # 2.Authors:
 - Kumar Kanishk Singh  :sleeping:
 - Sunny Raja Prasad :sunglasses:
