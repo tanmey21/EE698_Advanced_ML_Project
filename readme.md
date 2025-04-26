@@ -6,15 +6,15 @@
 
 # 2.Sample Examples:
 #### Example-1:
-- **Input (Grapheme):** `phone`
-- **Predicted Phoneme Output:** `F OW N`
+- **Input (Grapheme):** `Pronounciation`
+- **Predicted Phoneme Output:** ` P R OW N AH N S IY EY SH AH N`
 
 #### Example-2:
-- **Input (Grapheme):** `knight`
-- **Predicted Phoneme Output:** `N AY T`
+- **Input (Grapheme):** `Wednesday`
+- **Predicted Phoneme Output:** ` W EH N Z D IY`
 
 #### Example-3:
-- **Input (Grapheme):** `physics`
+- **Input (Grapheme):** `Physics`
 - **Predicted Phoneme Output:** `F IH Z IH K S`
 
 # 2.Authors:
